@@ -159,9 +159,3 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Chavan-Harshal&theme=material-palenight)](https://github.com/Chavan-Harshal)
 </div>
 
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Chavan-Harshal/Chavan-Harshal/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
